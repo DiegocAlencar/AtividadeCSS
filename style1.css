@@ -1,0 +1,77 @@
+body{
+    background-image: url("https://dbdzm869oupei.cloudfront.net/img/vinylrugs/preview/46933.png");
+
+    background-size:cover;
+    }
+
+    header{
+        color: black;
+    }
+    
+    .juncao{
+        background-color: LightGrey;
+        color: black ;
+        width: 50%;
+        height: 400px;
+        border: 2px solid black;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px orange;
+        margin-top: 130px;
+        margin-left: 300px;
+    }
+
+    h1{
+        color: CadetBlue;
+        font-family: fantasy;
+        text-align: center;
+        padding-top: 10px;
+        
+    }
+
+    ul{
+        display: flex;
+        
+        
+    }
+    
+    a{
+        color: MediumSlateBlue;
+    }
+    
+    .sobre{
+        margin-left: 30px;
+        margin-top: 1px;
+        color: red
+        
+    }
+    
+    .contato{
+        margin-left: 50px;
+        margin-top: 1px;
+        color: blue;
+       
+    }
+    
+    .pg{
+        margin-left: 150px;
+        margin-top: 1px;
+        color: violet;
+        
+    }
+
+    main{
+        padding-top: 20px;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    footer{
+        background-color: LightGrey;
+        margin-top: 45px;
+        width: 20%;
+        height: 60px;
+        margin-left: 3px;
+        border: 2px solid black;
+        box-shadow: 2px 2px 2px orange;
+        
+    }
